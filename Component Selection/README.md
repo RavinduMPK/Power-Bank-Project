@@ -13,3 +13,6 @@ The power management system, a critical component for ensuring stable and effici
 
 ### Microcontroller: ATtiny 85
 To add intelligence and control to my charger, I turned to the ATtiny 85 microcontroller. Its compact size and efficient capabilities made it an excellent fit for my design. The ATtiny 85's I2C communication interface allowed for seamless interaction with other components, facilitating data exchange and control. Despite its small form factor, this microcontroller's specifications aligned with my project's needs, enabling it to execute the smart charging algorithm and enhance user experience.
+
+
+_**And also I have added the BOM and from where I have bought components (Supply chain)**_
