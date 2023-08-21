@@ -61,6 +61,9 @@ My PCB design plays a pivotal role in the power bank's functionality and durabil
 - **Layer Stack:** The 4-layer PCB features a well-defined layer stack, including dedicated ground layers to minimize noise and interference.
 
 - **SMD Components:** We've opted for surface-mount device (SMD) components to achieve a compact and space-efficient design without compromising performance.
+- 
+![Final PCB Design](https://github.com/RavinduMPK/Power-Bank-Project/assets/68577937/0d25b709-f574-42a0-b658-74c88f31b39a)
+
 
 ## Enclosure Design
 
@@ -68,7 +71,13 @@ The enclosure design adds both style and protection to our power bank:
 
 - **Dual Design Approach:** We've developed two enclosure designs—a minimalist version for simplicity and a captivating, user-attractive design for enhanced visual appeal.
 
-- **Solidworks Software:** Using Solidworks, we've meticulously designed the enclosures, ensuring a perfect fit for all internal components.
+- **Solidworks Software:** Using Solidworks, I've meticulously designed the enclosures, ensuring a perfect fit for all internal components.
+
+![Moldable Design](https://github.com/RavinduMPK/Power-Bank-Project/assets/68577937/37c76b2a-dfa7-4cdf-8cd7-67baf826c20e)
+
+![3D printed Design](https://github.com/RavinduMPK/Power-Bank-Project/assets/68577937/4491cc02-f954-47f0-8abe-3e4a90dd89b6)
+
+
 
 ## Conclusion
 
