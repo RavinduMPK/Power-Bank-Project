@@ -22,7 +22,7 @@ Welcome to the Solar-Powered Li-ion Battery Charger Power Bank project! This inn
 - **Environmental Sustainability:** By harnessing solar energy, our solution encourages a greener lifestyle and reduces reliance on conventional power sources.
 
 ### *_Here you can find my_* 
-- _*Design Cycles (Conceptual Design & Priliminary Design)*_
+- _**Design Cycles (Conceptual Design & Preliminary Design)**_
 - _Circuit Designs_
 - _PCB Designs_
 - _Enclosure Design_
